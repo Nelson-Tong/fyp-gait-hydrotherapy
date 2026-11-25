@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1W0xZ12ejdtQfeLQs13VmaxNdZyFhKHPy?usp=sha
 ---
 
 ## 2. Repository & Local Workspace Directory Structure
-
+```text
 <REPO_ROOT>/
 ├── assets/                                                         # Downloaded from Drive (Assets/)
 │   └── NotoSansJP-VariableFont_wght.ttf                            # Overlay font for annotated videos
@@ -60,7 +60,7 @@ https://drive.google.com/drive/folders/1W0xZ12ejdtQfeLQs13VmaxNdZyFhKHPy?usp=sha
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
