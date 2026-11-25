@@ -1,0 +1,23 @@
+# Core numerical & data handling
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+openpyxl>=3.1.0
+
+# Machine learning & statistical evaluation
+scikit-learn>=1.3.0
+pingouin>=0.5.3
+
+# Deep learning & pose estimation
+tensorflow>=2.12.0
+ultralytics>=8.3.0
+
+# Computer vision, plotting & image annotation
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+Pillow>=10.0.0
+
+# Hyperparameter optimization (for notebooks/HPO_search.ipynb)
+optuna>=3.5.0
+optuna-integration[tfkeras]>=3.5.0
+optuna-dashboard>=0.15.0

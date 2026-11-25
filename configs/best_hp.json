@@ -1,0 +1,17 @@
+{
+  "window_size": 250,
+  "stride": 1,
+  "batch_size": 32,
+  "num_cnn_stacks": 3,
+  "cnn_filters": 128,
+  "cnn_kernel": 7,
+  "pool_size": 5,
+  "cnn_dropout": 0.1,
+  "use_batchnorm": 0,
+  "lstm_layers": 2,
+  "lstm_units": 32,
+  "dropout": 0.5,
+  "dense_units": 96,
+  "learning_rate": 0.00041224168631878125,
+  "weight_decay": 0.00040947796586788366
+}
